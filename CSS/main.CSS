@@ -1,11 +1,11 @@
 h1{
-  color:	#008080;
-}
-h1 {
+    color:	#008080;
     text-decoration: underline;
 }
+
 p{
-  color: 	#008080;
+    color: 	#008080;
+    font-size: 125%;
 }
 img {
 width: 200px;  
@@ -13,9 +13,7 @@ width: 200px;
 h1{
   font-size: 350%;
 }
-p{
-  font-size: 125%;
-}
+
 ul{
   font-size: 125%
 }

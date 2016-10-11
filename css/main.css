@@ -8,7 +8,7 @@ p{
   color: 	#008080;
 }
 img {
-width: 15%;  
+width: 50px;  
 }
 h1{
   font-size: 350%;
@@ -20,7 +20,7 @@ ul{
   font-size: 125%
 }
 img.galleryImage {
-  width: 100px;
+  width: 50px;
 }
 body {
     background-color: #F0F9FA;

@@ -8,7 +8,7 @@ p{
   color: 	#008080;
 }
 img {
-width: 50px;  
+width: 100px;  
 }
 h1{
   font-size: 350%;
@@ -18,9 +18,10 @@ p{
 }
 ul{
   font-size: 125%
+    list-style-type: none;
 }
 img.galleryImage {
-  width: 50px;
+  width: 100px;
 }
 body {
     background-color: #F0F9FA;
